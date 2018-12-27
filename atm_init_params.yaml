@@ -1,0 +1,5 @@
+
+Agv_Task_Manager:
+  ros__parameters:
+    manipulator_sequence: [2,3,4,1]
+    ee_sequence: [2,0,1,0]
